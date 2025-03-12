@@ -6,12 +6,12 @@ export default function ProductCard() {
     {
       product_image: "https://pbs.twimg.com/media/GgqTCL4XkAAuW7N.jpg",
       product_name: "NVIDIA GeForce RTX 5090",
-      price: "3000$",
+      price: " $ 3000",
     },
     {
       product_image: "https://i.ytimg.com/vi/fj245xMr-BM/sddefault.jpg",
       product_name: "NVIDIA GeForce RTX 4090",
-      price: "2500$",
+      price: " $ 2500",
     },
   ];
 
